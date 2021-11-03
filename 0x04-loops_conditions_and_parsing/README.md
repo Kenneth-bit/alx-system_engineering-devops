@@ -3,10 +3,8 @@
 | Script | What it does |
 | ------ | ------------ |
 | 0-RSA_public_key.pub | My RSA public key. |
-| 1-for_best_school | Displays Best School 10 times.<br />
-Requirement:<br /><br /> - You must use the for loop (while and until are forbidden). |
-| 2-while_best_school | Displays Best School 10 times.<br /><br />
-Requirements:<br /><br /> - You must use the while loop (for and until are forbidden). |
+| 1-for_best_school | Displays Best School 10 times.<br />Requirement:<br /><br /> - You must use the for loop (while and until are forbidden). |
+| 2-while_best_school | Displays Best School 10 times.<br /><br />Requirements:<br /><br /> - You must use the while loop (for and until are forbidden). |
 | 3-until_best_school | Displays Best School 10 times.<br /><br />Requirements:<br /><br /> - You must use the until loop (for and while are forbidden). |
 | 4-if_9_say_hi | Displays Best School 10 times, but for the 9th iteration, displays Best School and then Hi on a new line.<br /><br />Requirements:<br /><br /> - You must use the while loop (for and until are forbidden).<br />- You must use the if statement. |
 | 5-4_bad_luck_8_is_your_chance |  Loops from 1 to 10 and:<br /><br /> - displays bad luck for the 4th loop iteration.<br /> - displays good luck for the 8th loop iteration.<br /> - displays Best School for the other iterations.<br /><br />Requirements:<br /><br /> - You must use the while loop (for and until are forbidden).<br /> - You must use the if, elif and else statements. |
