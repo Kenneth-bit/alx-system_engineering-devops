@@ -12,4 +12,4 @@ Script | What it does
 7-clock |
 8-for_ls |
 9-to_file_or_not_to_file | 
-10-fizzbuzz | displays numbers from 1 to 100.<br /><br />Requirements:<br /><br />*. Displays FizzBuzz when the number is a multiple of 3 and 5.<br />Displays Fizz when the number is multiple of 3.<br />*. Displays Buzz when the number is a multiple of 5.<br />*. Otherwise, displays the number.<br />*. In a list format.
+10-fizzbuzz | Displays numbers from 1 to 100.<br /><br />*Requirements:*<br /><br />- Displays FizzBuzz when the number is a multiple of 3 and 5.<br />+Displays Fizz when the number is multiple of 3.<br />*. Displays Buzz when the number is a multiple of 5.<br />*. Otherwise, displays the number.<br />*. In a list format.
