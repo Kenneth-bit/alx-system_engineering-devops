@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+# Verify that an IP is provided.
+# Display the error message if the IP is not provided.
+# Exit with a status of 1.
+[ $# -eq 0 ] && { echo "Usage: $0 {IP_ADDRESS}"; exit 1; }
+
+# Ping the IP 5 times.
+ping -c 5
